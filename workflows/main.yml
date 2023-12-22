@@ -13,8 +13,8 @@ jobs:
         run: echo "Last updated: $(date)" > last_update.txt
       - name: Commit and push
         run: |
-          git config --global user.name 'Your Name'
-          git config --global user.email 'your-email@example.com'
+          git config --global user.name 'Amit barua'
+          git config --global user.email 'amit.himel@example.com'
           git add last_update.txt
           git commit -m "Update timestamp"
           git push
