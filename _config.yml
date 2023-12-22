@@ -1,8 +1,8 @@
 # site settings
 title: My Daisy
 subtitle: by HTML5 UP
-email:amit.himel@gmail.com
-description: Our JOurney.
+email: amit.himel@gmail.com
+description: Our Journey.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 
 
